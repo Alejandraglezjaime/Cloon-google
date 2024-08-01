@@ -37,7 +37,7 @@ ul {
 }
 
 footer p {
-    padding: 15px;
+    padding: 5px;
     margin: 0px;
 }
 
@@ -46,7 +46,7 @@ footer {
 }
 
 .linea-arriba {
-    border-top: 1px solid #dadce0;
+    border-top: .5px solid #dadce0;
 }
 
 nav {
